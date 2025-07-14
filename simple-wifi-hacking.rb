@@ -6,7 +6,7 @@ class Simplewifi < Formula
   version "0.1"
 
   def install
-    bin.install "simplewifi"
+    bin.install "simple-wifi-hacking"
   end
 
   test do
